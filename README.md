@@ -41,6 +41,7 @@ Here are a few notable games you can try:
 - [Stickman Archer](https://gamh5.com/category/bubble-shooter/)
 - [2048 Merge](https://gamh5.com/category/merge/)
 - [Endless Car Race](https://gamh5.com/category/racing/)
+- [Nexus Hack Simulator](https://nexushacker.com)
 
 > Browse more games at [GamH5](https://gamh5.com).
 
